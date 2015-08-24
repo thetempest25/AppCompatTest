@@ -1,0 +1,8 @@
+C:\Users\bmd\documents\visual studio 2015\Projects\AppCompatTest\AppCompatTest\bin\Debug\AppCompatTest.Core.dll
+C:\Users\bmd\documents\visual studio 2015\Projects\AppCompatTest\AppCompatTest\bin\Debug\AppCompatTest.Core.pdb
+C:\Users\bmd\documents\visual studio 2015\Projects\AppCompatTest\AppCompatTest\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\bmd\documents\visual studio 2015\Projects\AppCompatTest\AppCompatTest\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Users\bmd\documents\visual studio 2015\Projects\AppCompatTest\AppCompatTest\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\bmd\documents\visual studio 2015\Projects\AppCompatTest\AppCompatTest\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\bmd\documents\visual studio 2015\Projects\AppCompatTest\AppCompatTest\obj\Debug\AppCompatTest.Core.dll
+C:\Users\bmd\documents\visual studio 2015\Projects\AppCompatTest\AppCompatTest\obj\Debug\AppCompatTest.Core.pdb
